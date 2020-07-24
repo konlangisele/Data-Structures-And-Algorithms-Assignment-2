@@ -29,9 +29,10 @@ class Deque:# creation of a deque class
         self.array.pop()#a statement to remove the preferred number from the back
     def halfFull(s):#a function to divide the array into equal halves
         halfFull=list(range(rand.randint(1,100)//2))#statement with the formular to make the array half full
+#KONLAN GISELE YENNULOM
+#ASSIGNMENT 2
 
         
-       
 #INTERPOLATION
 
 
